@@ -520,7 +520,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vernu/textbee</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">textbee.dev is an opensource and free sms-gatway for sending SMS messages through API or dashboard web interface.</div>
@@ -1027,7 +1027,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 332k out of 245m repositories</span>
+                                    <span class="gh">ranked 332k out of 246m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 125 stars</div>
                             </div>
@@ -1178,7 +1178,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Apr 2025, 22:12:30 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2025, 23:10:27 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
