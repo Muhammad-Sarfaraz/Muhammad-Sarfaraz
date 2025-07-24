@@ -254,7 +254,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shaheen2013/duckduckgo-search-mcp-server</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DuckDuckGo MCP-compatible server for querying DuckDuckGo Instant Answer API.</div>
@@ -301,7 +301,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>talesluna/rust-printers</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A rust library to printing APIs implementation for unix (cups) and windows (winspool).</div>
@@ -723,7 +723,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jul 2025, 15:17:03 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jul 2025, 16:13:50 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
