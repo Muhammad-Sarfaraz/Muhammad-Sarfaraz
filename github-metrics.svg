@@ -407,7 +407,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudflare/capnweb</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system</div>
@@ -460,7 +460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>confident-ai/deepeval</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The LLM Evaluation Framework</div>
@@ -513,7 +513,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coinbase/x402</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A payments protocol for the internet. Built on HTTP.</div>
@@ -566,7 +566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Olow304/memvid</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.</div>
@@ -619,7 +619,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>humanlayer/humanlayer</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The best way to get AI coding agents to solve hard problems in complex codebases.</div>
@@ -653,7 +653,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        166
+                                        167
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -723,7 +723,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Oct 2025, 11:12:02 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2025, 12:17:56 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
