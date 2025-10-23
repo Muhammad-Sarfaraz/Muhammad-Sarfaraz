@@ -254,7 +254,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>clockworklabs/SpacetimeDB</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multiplayer at the speed of light</div>
@@ -307,7 +307,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>is-a-dev/register</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Grab your own sweet-looking '.is-a.dev' subdomain.</div>
@@ -360,7 +360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/chat-ui</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source codebase powering the HuggingChat app</div>
@@ -566,7 +566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudflare/capnweb</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system</div>
@@ -619,7 +619,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>confident-ai/deepeval</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The LLM Evaluation Framework</div>
@@ -723,7 +723,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Oct 2025, 11:12:08 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Oct 2025, 12:17:55 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
