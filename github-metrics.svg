@@ -254,7 +254,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actix/actix-web</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.</div>
@@ -307,7 +307,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tokio-rs/axum</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</div>
@@ -729,7 +729,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Nov 2025, 19:27:33 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Nov 2025, 20:12:58 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
