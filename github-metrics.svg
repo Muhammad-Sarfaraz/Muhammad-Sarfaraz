@@ -254,7 +254,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>typst/typst</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A markup-based typesetting system that is powerful and easy to learn.</div>
@@ -307,7 +307,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vtereshkov/umka-lang</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Umka: a statically typed embeddable scripting language</div>
@@ -729,7 +729,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Nov 2025, 23:10:10 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2025, 00:16:51 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
