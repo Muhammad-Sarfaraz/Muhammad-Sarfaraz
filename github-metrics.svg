@@ -254,7 +254,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bodaay/HuggingFaceModelDownloader</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple go utility to download HuggingFace Models and Datasets</div>
@@ -307,7 +307,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>immersive-web/webxr</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Repository for the WebXR Device API Specification.</div>
@@ -360,7 +360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/detectron2</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.</div>
@@ -729,7 +729,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Dec 2025, 03:10:27 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Dec 2025, 04:10:43 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
