@@ -254,7 +254,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws/eks-anywhere</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run Amazon EKS on your own infrastructure 🚀</div>
@@ -360,7 +360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bodaay/HuggingFaceModelDownloader</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple go utility to download HuggingFace Models and Datasets</div>
@@ -413,7 +413,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>immersive-web/webxr</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Repository for the WebXR Device API Specification.</div>
@@ -466,7 +466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/detectron2</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.</div>
@@ -519,7 +519,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carbon-language/carbon-lang</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)</div>
@@ -572,7 +572,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ckan/ckan</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.</div>
@@ -729,7 +729,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Dec 2025, 11:12:58 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2025, 12:22:27 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
