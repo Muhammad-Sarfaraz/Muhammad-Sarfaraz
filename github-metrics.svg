@@ -254,7 +254,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gearman/gearmand</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -414,7 +414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DayuanJiang/next-ai-draw-io</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.</div>
@@ -467,7 +467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>basecamp/fizzy</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kanban as it should be. Not as it has been.</div>
@@ -520,7 +520,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws/eks-anywhere</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run Amazon EKS on your own infrastructure 🚀</div>
@@ -730,7 +730,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Dec 2025, 17:09:45 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Dec 2025, 18:20:54 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
