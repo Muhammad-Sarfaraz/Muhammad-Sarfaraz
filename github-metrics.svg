@@ -254,7 +254,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>usefathom/fathom</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fathom Lite. Simple, privacy-focused website analytics. Built with Golang &amp; Preact.</div>
@@ -307,7 +307,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>provectus/kafka-ui</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-Source Web UI for Apache Kafka Management</div>
@@ -360,7 +360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nats-io/nats-server</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High-Performance server for NATS.io, the cloud and edge native messaging system.</div>
@@ -413,7 +413,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>redis/redis</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.</div>
@@ -466,7 +466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rabbitmq/rabbitmq-server</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source RabbitMQ: core server and tier 1 (built-in) plugins</div>
@@ -519,7 +519,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/kafka</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mirror of Apache Kafka</div>
@@ -730,7 +730,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Dec 2025, 20:13:25 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Dec 2025, 21:13:28 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
